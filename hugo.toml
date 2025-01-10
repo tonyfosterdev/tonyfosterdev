@@ -1,4 +1,4 @@
 baseURL = 'https://tonyfoster.dev/'
 languageCode = 'en-us'
 title = 'Tony Foster | Developer'
-theme = 'ananke'
+theme = 'PaperMod'
